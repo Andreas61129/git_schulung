@@ -1,6 +1,11 @@
 Gruppe1:
+<<<<<<< HEAD
 git status Zeigt akteulle commits an
 git add <datei> fügt eine Datei zum working stage hinzu
+=======
+git status Zeigt an, auf welchem branch man ist und in welcher stage sich die veränderten dateien befinden (stage/commited)
+git add <datei>
+>>>>>>> Johannes
 
 Gruppe2:
 git commit -m "Deine Commit-Nachricht"
