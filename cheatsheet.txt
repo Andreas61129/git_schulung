@@ -1,5 +1,5 @@
 Gruppe1:
-git status
+git status Zeigt an, auf welchem branch man ist und in welcher stage sich die veränderten dateien befinden (stage/commited)
 git add <datei>
 
 Gruppe2:
