@@ -1,0 +1,39 @@
+Gruppe1:
+git status
+git add <datei>
+
+Gruppe2:
+git commit -m "Deine Commit-Nachricht"
+git pull origin main
+
+Gruppe3:
+git push origin main
+git branch
+
+Gruppe4:
+git checkout <branchname>
+git merge <branchname>
+
+Gruppe5:
+git log
+git clone <repository-url>
+
+Gruppe6:
+git fetch origin
+git diff
+
+Gruppe7:
+git remote -v
+git rebase main
+
+Gruppe8:
+git reset <datei>
+git stash
+
+Gruppe9:
+git init
+git tag v1.0
+
+Gruppe10:
+git rm <datei>
+git config --global user.name "Dein Name"
