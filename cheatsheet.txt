@@ -3,8 +3,8 @@ git status
 git add <datei>
 
 Gruppe2:
-git commit -m "Deine Commit-Nachricht"
-git pull origin main
+git commit -m "Deine Commit-Nachricht": Änderungen aus Stageing area auf lokales Repo übernehmen. Zusäzliche Nachricht mit Infos über die Änderungen.
+git pull origin main: Den aktuellen Stand vom Repository ziehen und in lokale Umgebung übertragen.
 
 Gruppe3:
 git push origin main
