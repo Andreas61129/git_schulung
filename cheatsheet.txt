@@ -1,6 +1,6 @@
 Gruppe1:
 git status Zeigt an, auf welchem branch man ist und in welcher stage sich die veränderten dateien befinden (stage/commited)
-git add <datei>
+git add <datei> füge datei zur working strage hinzu
 
 Gruppe2:
 git commit -m "Deine Commit-Nachricht"
