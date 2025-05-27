@@ -1,6 +1,6 @@
 Gruppe1:
-git status
-git add <datei>
+git status Zeigt akteulle commits an
+git add <datei> fügt eine Datei zum working stage hinzu
 
 Gruppe2:
 git commit -m "Deine Commit-Nachricht"
