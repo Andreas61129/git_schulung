@@ -7,8 +7,8 @@ git commit -m "Deine Commit-Nachricht": Änderungen aus Stageing area auf lokale
 git pull origin main: Den aktuellen Stand vom Repository ziehen und in lokale Umgebung übertragen.
 
 Gruppe3:
-git push origin main
-git branch
+git push origin main - upload local repository content to a remote repository
+git branch - List, create or delete branches
 
 Gruppe4:
 git checkout <branchname>
