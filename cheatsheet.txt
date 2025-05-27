@@ -7,7 +7,7 @@ git commit -m "Deine Commit-Nachricht"
 git pull origin main
 
 Gruppe3:
-git push origin main
+git push origin main - upload local repository content to a remote repository
 git branch
 
 Gruppe4:
